@@ -1,3 +1,6 @@
+// EnterpriseFlow REST API
+// Node.js + Express + MySQL
+// Endpoints: /api/employees, /api/departments, /api/projects
 // Примерен REST API с Node.js и Express
 
 const express = require('express');
