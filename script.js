@@ -1,3 +1,6 @@
+// EnterpriseFlow Frontend Logic
+// Features: CRUD operations, filtering, sorting, pagination
+// Data from company.sql database
 // Глобални променливи
 let employees = [];
 let departments = [];
